@@ -20,9 +20,9 @@ The live version is deployed and accessible at: [https://sensational-paletas-7a5
    - A modal form with validations allows users to add new data to the table, then edit and delete after select any columns".
 
 4. **Sidebar Navigation**: Left Sidebar & Right Sidebar
-  - Requires careful attention to structure, responsive layout, and state management. Additionally, ensuring scalability for future content and   user preferences adds further complexity to maintaining an intuitive and functional sidebar.
+   - Requires careful attention to structure, responsive layout, and state management. Additionally, ensuring scalability for future content and   user preferences adds further complexity to maintaining an intuitive and functional sidebar.
 
-5. **Theme Management**:
+6. **Theme Management**:
    - Theme settings allow toggling between dark and light modes, enhancing user experience and accessibility.
   
 ## Design Decisions
